@@ -1,1 +1,1 @@
-cookbook_path ['/home/vagrant/cicd_practice/cookbooks']
+cookbook_path ['/cicd_practice/cookbooks']
